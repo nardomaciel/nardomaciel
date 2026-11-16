@@ -10,7 +10,7 @@ Comecei longe da tela, com fios, sensores e um microcontrolador que aprendeu a r
 #### Alguns projetos
 
 - [SIF](https://github.com/sistema-irrigacao-facilitado/laravel-sif): plataforma web do sistema de irrigação, com dispositivos, bombas, plantas e leituras dos sensores.
-- [Biblioteca online](https://github.com/nardomaciel/projeto_teca): acervo, clientes e empréstimos em PHP puro com MySQL.
+- [Biblioteca online](https://github.com/nardomaciel/projeto_teca): meu primeiro site, em PHP puro. Remasterizado com uma biblioteca online em formato de estante.
 - [FrutoCerto](https://github.com/nardomaciel/frutocerto): protótipo de hackathon que liga produtor de fruta e comprador.
 - [Simulação de engenharia social](https://github.com/nardomaciel/apresentacaoCiberseguranca): um formulário "inofensivo" que mostra o que um golpista faz com seus dados.
 
