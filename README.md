@@ -11,6 +11,7 @@ Comecei longe da tela, com fios, sensores e um microcontrolador que aprendeu a r
 #### Alguns projetos
 
 - [SIF](https://github.com/sistema-irrigacao-facilitado/laravel-sif): plataforma web do sistema de irrigação, com dispositivos, bombas, plantas e leituras dos sensores.
+- [SIF, o firmware](https://github.com/nardomaciel/sif-firmware): a minha parte do SIF. O código do ESP32 que lê o solo e a temperatura, liga a bomba e conversa com a plataforma, com o histórico das versões desde 2024.
 - [Arquearia Brasil](https://nardomaciel.github.io/arqueirosbr/): meu primeiro site, de um clube de tiro com arco. Voltei nele e virou landing page com loja virtual: catálogo, carrinho e finalização de pedido em JavaScript puro. ([código](https://github.com/nardomaciel/arqueirosbr))
 - [Biblioteca online](https://github.com/nardomaciel/projeto_teca): meu primeiro sistema, em PHP puro. Remasterizado com uma biblioteca online em formato de estante.
 - [Estudos de Arduino](https://github.com/nardomaciel/estudos-arduino): do LED piscando até o ESP32 com Wi-Fi. A base do SIF.
